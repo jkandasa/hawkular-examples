@@ -1,0 +1,17 @@
+[
+  {
+    "tenantId": null,
+    "triggerId": "trigger-id-threshold-range-L_EXCLUSIVE-H_INCLUSIVE-R_false-bxdydgnl",
+    "triggerMode": "FIRING",
+    "type": "RANGE",
+    "conditionSetSize": 1,
+    "conditionSetIndex": 1,
+    "conditionId": "trigger-id-threshold-range-L_EXCLUSIVE-H_INCLUSIVE-R_false-bxdydgnl-FIRING-1-1",
+    "dataId": "metric-data-id-66m5xpe0",
+    "operatorLow": "EXCLUSIVE",
+    "operatorHigh": "INCLUSIVE",
+    "thresholdLow": 4092.017419206102,
+    "thresholdHigh": 262956.84128394513,
+    "inRange": false
+  }
+]
