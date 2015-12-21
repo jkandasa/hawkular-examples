@@ -1,0 +1,18 @@
+{
+  "tenantId": null,
+  "id": "trigger-id-threshold-range-L_EXCLUSIVE-H_INCLUSIVE-R_false-bxdydgnl",
+  "name": "ThresholdRange-L_EXCLUSIVE-H_INCLUSIVE-R_false-ffrxvhe7",
+  "eventType": "ALERT",
+  "eventCategory": null,
+  "eventText": null,
+  "severity": "MEDIUM",
+  "autoDisable": false,
+  "autoEnable": false,
+  "autoResolve": false,
+  "autoResolveAlerts": true,
+  "autoResolveMatch": "ALL",
+  "enabled": true,
+  "firingMatch": "ANY",
+  "orphan": false,
+  "group": false
+}
